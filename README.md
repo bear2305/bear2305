@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
+
+[![My GitFut Card](https://gitfut.com/bear2305.png)](https://gitfut.com/bear2305)
+- 
 <!-- 👀 I’m interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
