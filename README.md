@@ -1,8 +1,5 @@
  👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
 
-<a href="https://gitfut.com/bear2305">
-  <img src="https://gitfut.com/bear2305.png" width="150" alt="GitFut Card" />
-</a>
 
 <!-- 👀 I’m interested in
 - 🌱 I’m currently learning ...
@@ -25,7 +22,9 @@ You can click the Preview link to take a look at your changes.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=bear2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bear2305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bear2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bear2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<a href="https://gitfut.com/bear2305">
+  <img src="https://gitfut.com/bear2305.png" width="150" alt="GitFut Card" />
+</a>
 
 ---
 [![](https://komarev.com/ghpvc/?username=bear2305&icon=0&color=0)](https://visitcount.itsvg.in)
