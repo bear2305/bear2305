@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
+ 👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
+
 <a href="https://gitfut.com/bear2305">
   <img src="https://gitfut.com/bear2305.png" width="250" alt="GitFut Card" />
 </a>
---- 
+
 <!-- 👀 I’m interested in
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -11,7 +12,7 @@
 - ⚡ Fun facbear2305/bear2305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+---
 # 💫 About Me:
 <br/>
 
