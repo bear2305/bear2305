@@ -1,4 +1,4 @@
-u 👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
+👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
 
 
 <!-- 👀 I’m interested in...
