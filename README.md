@@ -1,4 +1,5 @@
 👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
+Diploma In Computer Science @ GCTU
 
 
 <!-- 👀 I’m interested in....
