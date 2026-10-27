@@ -1,6 +1,7 @@
 I'm👋 Hi, I’m Banahene Emmanuel Adamnor -2425402521 @bear2305
 Diploma In Computer Science @ GCTU
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bear2305&show_icons=true&theme=radical)
 
 <!-- 👀 I’m interested in....
 - 🌱 I’m currently learning ....
